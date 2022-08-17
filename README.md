@@ -2,7 +2,16 @@
 
 
 
-[toc]
+<!-- TOC -->
+
+- [《30天吃掉那只 TensorFlow2.0 》开篇辞 🔥🔥](#30天吃掉那只-tensorflow20-开篇辞-)
+    - [一，TensorFlow2 🍎 还是 Pytorch🔥](#一tensorflow2--还是-pytorch)
+    - [二，Keras🍏 和 tf.keras 🍎](#二keras-和-tfkeras-)
+    - [三，本书📖面向读者 👼](#三本书面向读者-)
+    - [四，本书写作风格 🍉](#四本书写作风格-)
+    - [五，本书学习方案 ⏰](#五本书学习方案-)
+
+<!-- /TOC -->
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/d08ebcc31c504ff996b826572865834e.jpeg#pic_center)
 
